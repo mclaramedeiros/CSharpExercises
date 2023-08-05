@@ -1,0 +1,15 @@
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\bin\Debug\net6.0\CSharpExercises.exe
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\bin\Debug\net6.0\CSharpExercises.deps.json
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\bin\Debug\net6.0\CSharpExercises.runtimeconfig.json
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\bin\Debug\net6.0\CSharpExercises.dll
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\bin\Debug\net6.0\CSharpExercises.pdb
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.csproj.AssemblyReference.cache
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.AssemblyInfoInputs.cache
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.AssemblyInfo.cs
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.csproj.CoreCompileInputs.cache
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.dll
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\refint\CSharpExercises.dll
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.pdb
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\CSharpExercises.genruntimeconfig.cache
+C:\Users\francisco\source\repos\CSharpExercises\CSharpExercises\obj\Debug\net6.0\ref\CSharpExercises.dll
